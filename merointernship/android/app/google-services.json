@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "389028409833",
+    "project_id": "merointernship-239b7",
+    "storage_bucket": "merointernship-239b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389028409833:android:ed9c8a33cf6705d47c5b78",
+        "android_client_info": {
+          "package_name": "com.example.merointernship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389028409833-j5sispa4eh8ga8n2bpo187hloc1rci2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.merointernship",
+            "certificate_hash": "792ec2bb1214b9cda33645ac3da9b789b3141d2c"
+          }
+        },
+        {
+          "client_id": "389028409833-otj22h35r0b8ev9g4icpd23nt9quuju4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqRj86eCU8M_qQnErjnK6DKOnY01WOTKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389028409833-otj22h35r0b8ev9g4icpd23nt9quuju4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
